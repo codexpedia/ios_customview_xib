@@ -1,5 +1,7 @@
 # ios custom view example
 
+https://www.codexpedia.com/ios/ios-custom-view-example/
+
 <img src="https://github.com/codexpedia/ios_customview_xib/blob/master/captures/screen.png" width="260" height="520"/> <img src="https://github.com/codexpedia/ios_customview_xib/blob/master/captures/myappdemo.gif" width="260" height="520"/>
 
 
